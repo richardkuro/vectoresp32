@@ -56,10 +56,10 @@ Ensure the following libraries are installed in your Arduino IDE:
    const char* password = "YOUR_WIFI_PASSWORD";
 
 Location Configuration: Update the lat and lon variables with your local coordinates to ensure accurate weather reactions:
-
+```cpp
 String lat = "27.1329";
 String lon = "93.7465";
-
+```
 Compile and Upload: Select your ESP32 board in the Arduino IDE and upload the code.
 
 
