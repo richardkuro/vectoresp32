@@ -64,3 +64,7 @@ Compile and Upload: Select your ESP32 board in the Arduino IDE and upload the co
 
 
 Access the Web UI: Open the Serial Monitor at 115200 baud to verify the connection. Find the ESP32's IP address on your network and enter it into a web browser to access the control panel.
+
+## 🎬 Preview
+![ezgif-450e643db8f25474](https://github.com/user-attachments/assets/e6ea5899-ee20-4cc3-93df-94f5637ff266)
+
